@@ -1,0 +1,16 @@
+{
+"companyName": "LATIHAN",
+"productName": "Star Space 2D",
+"productVersion": "1.0",
+"dataUrl": "STAR SPACE 2D.data.unityweb",
+"wasmCodeUrl": "STAR SPACE 2D.wasm.code.unityweb",
+"wasmFrameworkUrl": "STAR SPACE 2D.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}
